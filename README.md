@@ -1,5 +1,6 @@
 ### What is MERN Stack?
-Develop Application Using four skills below.
+Develop Application Using four skills below.  
+Only Using Javascript and JSON !
 - MongoDB
 - Express
 - React
@@ -9,8 +10,7 @@ Develop Application Using four skills below.
 ### Three Tier Architecture
 - Front-end layer -> React
 - Application-layer -> Express, Node
-- Database-layer -> MongoDB  
-Only Using Javascript and JSON
+- Database-layer -> MongoDB
 ---
   
   
