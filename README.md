@@ -16,7 +16,7 @@ Only Using Javascript and JSON !
   
 ### Getting Start
 ```
-# MERN_Prject/
+# MERN_Project/
 #             client
 #             server
 
